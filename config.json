@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentralidate",
+        "uuid": 13745136,
+        "checksum": "akgt9q"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
